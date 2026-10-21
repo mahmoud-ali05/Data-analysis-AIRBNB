@@ -1,0 +1,390 @@
+city,url,title,property_type,price_per_night,currency,superhost,guest_favorite,rating,reviews,amenity_count,guests,bedrooms,beds,baths
+amsterdam,https://www.airbnb.com/rooms/1454892558070097700,The Social Hub Amsterdam West 4*,Hotel,170.0,€,1,0,4.77,797,9,2,0,1,
+amsterdam,https://www.airbnb.com/rooms/1142549760112481397,Urban Lodge Hotel,Hotel,23.0,€,1,0,4.75,1801,11,2,,2,
+amsterdam,https://www.airbnb.com/rooms/1591948064662538384,Hotel Nes,Hotel,258.0,€,1,0,4.58,290,10,2,,1,
+athens,https://www.airbnb.com/rooms/1330983501559790704,Room with Unmatched Acropolis Views from Terrace,Room,81.0,€,1,0,4.84,128,28,2026,1,,14
+athens,https://www.airbnb.com/rooms/37249317,Relaxing small studio near to Acropolis 3,Entire rental unit,22.0,€,1,0,4.72,440,23,2,1,1,1
+athens,https://www.airbnb.com/rooms/42752626,Clean & Comfortable Athens Apt close to Metro Stop,Entire rental unit,100.0,€,1,1,4.98,98445,25,2,1,1,1
+barcelona,https://www.airbnb.com/rooms/1629047931445965933,Hotel Ronda Lesseps,Hotel,33.0,€,1,0,4.8,831,11,2,2,,
+barcelona,https://www.airbnb.com/rooms/1695009257290787299,Sant Agustí,Hotel,37.0,€,1,0,4.64,11,9,2,,2,
+barcelona,https://www.airbnb.com/rooms/1599370050492145726,chic&basic Lemon Boutique Hotel,Hotel,290.0,€,1,0,4.71,1108,4,2,,1,
+berlin,https://www.airbnb.com/rooms/1461455248702881309,The Social Hub Berlin Mitte,Hotel,27.0,€,1,0,4.78,504,11,2,0,,
+berlin,https://www.airbnb.com/rooms/711975137721582244,Beautiful Chic Cozy Room in Iconic Friedrichshain,Room,168.0,€,1,1,4.98,98320,38,2026,1,1,1
+berlin,https://www.airbnb.com/rooms/34381299,MLX 17: cozy loft 5 min from Checkpt Charlie,Entire serviced apartment,231.0,€,1,0,4.89,140,45,2,0,1,1
+budapest,https://www.airbnb.com/rooms/804987690728328653,Center Studio,Entire condo,115.0,€,1,1,4.94,94325,38,2,1,1,1
+budapest,https://www.airbnb.com/rooms/950692962692740644,Luxury Modern Loft in the Heart of Budapest,Entire condo,137.0,€,1,1,4.97,97271,42,2,1,1,1
+budapest,https://www.airbnb.com/rooms/1378330685120789949,Oasis 101 - Central & Cozy 1Br for 2 w/ AC,Entire rental unit,110.0,€,1,1,4.74,7462,43,2,1,1,1
+lisbon,https://www.airbnb.com/rooms/1447048252974571320,GuestReady - Esperança do Cardal 3B,Entire rental unit,218.0,€,1,0,4.53,62,28,3,0,2,1
+lisbon,https://www.airbnb.com/rooms/20465848,Chiado Loft 17 Charm Boutique Apartment,Entire rental unit,251.0,€,1,1,4.93,93567,31,2,0,2,1
+lisbon,https://www.airbnb.com/rooms/888323250581768898,Amazing view in Central Alfama,Entire rental unit,184.0,€,1,0,4.87,278,30,2,1,1,1
+london,https://www.airbnb.com/rooms/1615124202359029099,Point A Kensington,Hotel,274.0,€,1,0,4.63,458,9,2,,,
+london,https://www.airbnb.com/rooms/1393002640493801785,London Westfield nearby,Room,172.0,€,1,0,4.66,80,26,2026,1,1,
+london,https://www.airbnb.com/rooms/1659276603964126965,Otherwander Soho - Adults Only,Hotel,32.0,€,1,0,4.64,202,5,2,,,21
+paris,https://www.airbnb.com/rooms/1237453894972707363,Eklo Hotels Paris Porte de Versailles,Hotel,174.0,€,1,0,4.53,1037,9,2,,1,
+paris,https://www.airbnb.com/rooms/1432373195946343388,Hôtel Casimir,Hotel,32.0,€,1,0,4.83,103,7,2,,1,10
+paris,https://www.airbnb.com/rooms/1644218441498749746,Hotel La Maison Montparnasse,Hotel,28.0,€,1,0,4.7,185,8,2,0,,24
+rome,https://www.airbnb.com/rooms/690659022221894834,Private rooms Roma city center (03),Room,256.0,€,1,0,4.59,123,25,2026,1,1,16
+rome,https://www.airbnb.com/rooms/1153530483548009121,[Colosseum 10 Minutes METRO C] Pigneto Suite,Entire rental unit,252.0,€,1,0,4.73,150,23,2,1,1,1
+rome,https://www.airbnb.com/rooms/775247203861050587,Lisa Home Termini 31,Bed and breakfast,138.0,€,1,0,4.65,380,32,312,,2,
+vienna,https://www.airbnb.com/rooms/30360662,Quiet room - 3 min to U3 - 15 min to the centre,Room,34.0,€,1,0,4.69,418,41,2026,1,2,1.5
+vienna,https://www.airbnb.com/rooms/51765909,bright room in artsy flat close to city center,Room,134.0,€,1,0,4.89,375,51,2026,1,2,2
+vienna,https://www.airbnb.com/rooms/52165024,Modern Apartment - 15 min to City Center,Entire rental unit,125.0,€,1,0,4.78,423,23,3,1,2,1
+amsterdam,https://www.airbnb.com/rooms/1572471405118034794,Conscious Hotel The Tire Station,Hotel,185.0,€,1,0,4.77,1685,11,2,,2,
+amsterdam,https://www.airbnb.com/rooms/1218637130626680586,Maxhotel Amsterdam Schiphol Airport,Hotel,136.0,€,1,0,4.67,5098,11,2,,2,
+amsterdam,https://www.airbnb.com/rooms/1741927547436059667,CS Hotel Amsterdam,Hotel,264.0,€,1,0,4.44,18,3,2,,1,
+amsterdam,https://www.airbnb.com/rooms/1132335518112977277,Olympic Hotel,Hotel,35.0,€,1,0,4.83,2156,10,3,,2,
+amsterdam,https://www.airbnb.com/rooms/1537670374299144203,Hotel V Frederiksplein,Hotel,30.0,€,1,0,4.18,119,8,2,,4,9
+amsterdam,https://www.airbnb.com/rooms/1642811491033552175,Adam’s Museum House,Hotel,285.0,€,1,0,4.62,100,6,2,,,
+amsterdam,https://www.airbnb.com/rooms/1572482544480537652,Hotel V Fizeaustraat,Hotel,28.0,€,1,0,4.73,119,12,2,,1,
+amsterdam,https://www.airbnb.com/rooms/1635413919541551838,Hotel Casa,Hotel,252.0,€,1,0,4.82,243,12,2,,,
+amsterdam,https://www.airbnb.com/rooms/1720924838874638306,Amsterdam ID Aparthotel,Hotel,31.0,€,1,0,4.78,1662,14,2,0,2,
+amsterdam,https://www.airbnb.com/rooms/1572469675372632845,Conscious Hotel Westerpark,Hotel,36.0,€,1,0,4.8,892,11,2,,,
+amsterdam,https://www.airbnb.com/rooms/1607872785559570523,Backstage Hotel,Hotel,240.0,€,1,0,4.72,401,8,2,,,
+amsterdam,https://www.airbnb.com/rooms/1751360633058918164,NH Amsterdam Noord,Hotel,28.0,€,1,0,,0,12,2,,,
+amsterdam,https://www.airbnb.com/rooms/1080404233704746629,easyHotel Amsterdam City Center,Hotel,23.0,€,1,0,4.35,1565,8,2,,2,143
+amsterdam,https://www.airbnb.com/rooms/1095467732227004425,"Max Brown Hotel Museum Square, Sircle Collection",Hotel,250.0,€,1,0,4.64,1087,7,2,,1,
+amsterdam,https://www.airbnb.com/rooms/1517332215339437005,Hotel Sebastians,Hotel,291.0,€,1,0,4.85,192,11,2,,1,
+amsterdam,https://www.airbnb.com/rooms/1572470554258865145,Conscious Hotel Vondelpark,Hotel,29.0,€,1,0,4.73,938,10,2,,4,
+amsterdam,https://www.airbnb.com/rooms/1744986948112202724,Hotel Nes,Hotel,319.0,€,1,0,4.59,294,10,2,,,
+amsterdam,https://www.airbnb.com/rooms/1405580952928891695,Postillion Hotel Amsterdam,Hotel,210.0,€,1,0,4.75,811,10,2,,1,
+amsterdam,https://www.airbnb.com/rooms/1131586357433542339,Easyhotel Amsterdam Zaandam,Hotel,16.0,€,1,0,4.42,618,6,2,,2,
+amsterdam,https://www.airbnb.com/rooms/1293334069078128980,Supper Hotel,Hotel,300.0,€,1,0,4.54,320,8,2,,,
+amsterdam,https://www.airbnb.com/rooms/1562923346342472445,Sotel Amsterdam CS,Hotel,275.0,€,1,0,4.41,135,8,2,,1,
+amsterdam,https://www.airbnb.com/rooms/1623937336360549168,No.377 House,Hotel,261.0,€,1,0,4.48,21,10,2,,,
+amsterdam,https://www.airbnb.com/rooms/1623937336489568302,No.377 House,Hotel,261.0,€,1,0,4.48,21,10,2,,,
+amsterdam,https://www.airbnb.com/rooms/1613077265750405390,Amsterdam Forest Hotel,Hotel,162.0,€,1,0,4.48,179,11,2,,,20
+amsterdam,https://www.airbnb.com/rooms/1537609323935192444,Hotel Atlantis Amsterdam,Hotel,244.0,€,1,0,4.26,103,8,2,,2,11
+amsterdam,https://www.airbnb.com/rooms/1454889573201429996,The Social Hub Amsterdam City,Hotel,33.0,€,1,0,4.78,88,10,2,0,,
+amsterdam,https://www.airbnb.com/rooms/1642782271699951605,Ozo Hotels de President Amsterdam Airport,Hotel,181.0,€,1,0,4.59,410,13,2,,,
+amsterdam,https://www.airbnb.com/rooms/1613071461436620652,Hotel2Stay,Hotel,241.0,€,1,0,4.79,117,9,2,0,,
+amsterdam,https://www.airbnb.com/rooms/1557254839102178479,"Room Mate Aitana, Amsterdam",Hotel,334.0,€,1,0,4.85,479,14,2,,2,
+amsterdam,https://www.airbnb.com/rooms/1620276919218319132,Ozo Hotels Antares Airport,Hotel,152.0,€,1,0,4.74,155,9,2,,,
+amsterdam,https://www.airbnb.com/rooms/1700115247698577658,Hotel Twenty Three,Hotel,166.0,€,1,0,4.17,6,11,2,,,
+amsterdam,https://www.airbnb.com/rooms/1536104042550479638,Chasse Hotel Residency,Hotel,29.0,€,1,0,4.76,371,9,2,,1,
+amsterdam,https://www.airbnb.com/rooms/1572470923682704972,Conscious Hotel Museum Square,Hotel,39.0,€,1,0,4.78,696,9,2,,1,80
+amsterdam,https://www.airbnb.com/rooms/1130906891787023511,easyHotel Amsterdam Arena Boulevard,Hotel,197.0,€,1,0,4.46,1156,8,2,,1,87
+amsterdam,https://www.airbnb.com/rooms/1594250088881365197,Chasse Boutique Hotel,Hotel,39.0,€,1,0,4.76,58,12,3,,,
+amsterdam,https://www.airbnb.com/rooms/1532429889821368637,Hotel JL No76,Hotel,314.0,€,1,0,4.69,74,10,2,,1,
+amsterdam,https://www.airbnb.com/rooms/1730331467260715146,Hotel Central Staytion,Hotel,316.0,€,1,0,4.41,41,8,2,,,
+athens,https://www.airbnb.com/rooms/1329541785319343446,Athens room with stunning Acropolis terrace views,Room,87.0,€,1,1,4.93,93123,28,2026,1,,
+athens,https://www.airbnb.com/rooms/9471586,Sunny Penthouse near centre with Acropolis view,Entire rental unit,131.0,€,1,0,4.92,92752,51,2,1,1,1
+athens,https://www.airbnb.com/rooms/1643270065703763849,Athinas Experience - Olive Suite,Entire rental unit,138.0,€,1,0,4.83,36,33,3,1,2,1
+athens,https://www.airbnb.com/rooms/1272389007709797122,Super DownTown Studio 204 @ 400m Syntagma sq-metro,Entire rental unit,119.0,€,1,1,4.86,86164,22,2,1,1,1
+athens,https://www.airbnb.com/rooms/671541320726343249,Evripidou Experience - The Suite,Entire condo,130.0,€,1,1,4.9,9289,37,2,1,1,1
+athens,https://www.airbnb.com/rooms/1323072299132299735,Stay in Athens with Acropolis View from Terrace,Room,88.0,€,1,0,4.92,134,28,2026,1,2,
+athens,https://www.airbnb.com/rooms/33431074,Acropolis Museum shiny studio2@50m Acropolis metro,Entire rental unit,122.0,€,1,0,4.69,673,33,2,1,1,1
+athens,https://www.airbnb.com/rooms/633068752070705348,Super Downtown urban studio 1 @ metro Monastiraki,Entire condo,117.0,€,1,0,4.87,394,22,4,1,3,1
+athens,https://www.airbnb.com/rooms/1744366374347863071,"Open-plan apartment, close to Acropolis",Entire rental unit,118.0,€,1,0,5.0,2,43,2,1,1,1
+athens,https://www.airbnb.com/rooms/893211390976138803,urban cozy studios 6 @ 350 m metro Neos Kosmos,Entire home,153.0,€,1,0,4.8,202,26,2,1,1,1
+athens,https://www.airbnb.com/rooms/1325424923309640926,Downtown Acropolis View apart@ 350m metro Keramiko,Entire condo,138.0,€,1,0,4.83,101,29,2,1,1,1
+athens,https://www.airbnb.com/rooms/1322426445376798328,Shiny penthouse 4@100m metro,Entire rental unit,128.0,€,1,1,4.87,8783,41,4,2,3,1
+athens,https://www.airbnb.com/rooms/11137204,Dream apartment @ heart of athens!,Entire condo,93.0,€,1,1,4.98,98774,38,2,1,1,1
+athens,https://www.airbnb.com/rooms/1268549873160745871,“Morfes” studio at historic center-near Acropolis,Entire condo,167.0,€,1,1,4.95,95134,49,2,1,1,1
+athens,https://www.airbnb.com/rooms/19007851,ViLLaRa: True Hospitality & Design (City Center),Entire rental unit,117.0,€,1,1,4.91,91481,29,2,1,1,1
+athens,https://www.airbnb.com/rooms/21942566,Toni's - 1BD Retro Style home in City Center,Entire rental unit,97.0,€,1,0,4.8,8460,30,3,1,1,1
+athens,https://www.airbnb.com/rooms/1078920753424552891,2Suitable,Entire condo,31.0,€,1,0,4.8,110,31,2,1,1,1
+athens,https://www.airbnb.com/rooms/1321569892081309347,Economy double room Monastiraki,Room,90.0,€,1,1,4.69,69122,17,2026,1,1,
+athens,https://www.airbnb.com/rooms/1120245198738183111,Comfortable 45 sq.m apartment in the center of Athens,Entire condo,88.0,€,1,0,4.8,120,41,3,1,2,1
+athens,https://www.airbnb.com/rooms/1277281639088662338,Super DownTown Studio 304 @ 400m Syntagma sq-metro,Entire rental unit,119.0,€,1,1,4.91,91174,22,2,1,1,1
+athens,https://www.airbnb.com/rooms/37168584,Relaxing small studio near to Acropolis 5,Entire rental unit,20.0,€,1,0,4.61,392,24,2,1,1,1
+athens,https://www.airbnb.com/rooms/1758699621447458360,"Kratinou C5, dazzling apartment near the old town",Entire rental unit,175.0,€,1,1,5.0,12,25,2,1,1,1
+athens,https://www.airbnb.com/rooms/633055534368776225,Super Downtown urban studio 3 @ metro Monastiraki,Entire condo,117.0,€,1,0,4.82,315,28,4,1,3,1
+athens,https://www.airbnb.com/rooms/49808687,Unique Maisonette Near Acropolis & Temple of Zeus,Entire rental unit,108.0,€,1,1,4.78,78330,48,4,1,2,1
+athens,https://www.airbnb.com/rooms/1041302190669732025,Cozy Apart Historical Center@200m Metro Acropolis,Entire rental unit,139.0,€,1,1,4.76,76215,22,3,1,2,1
+athens,https://www.airbnb.com/rooms/845474680189178633,Entire apartment near Metro,Entire rental unit,77.0,€,1,0,4.79,394,34,3,1,2,1
+athens,https://www.airbnb.com/rooms/53085050,Romantic Studio w/ Ceiling Window Near Acropolis!,Entire rental unit,108.0,€,1,0,4.84,309,49,4,0,2,1
+athens,https://www.airbnb.com/rooms/1269625865443786040,Serenity gem of Athens 1,Entire rental unit,85.0,€,1,0,4.78,97,25,4,0,2,1
+athens,https://www.airbnb.com/rooms/1708096061732556516,Penthouse studio with a view of Athens,Entire condo,90.0,€,1,1,4.93,9315,31,2,1,1,1
+athens,https://www.airbnb.com/rooms/664227403574060421,Evripidou Experience - The smart double C,Entire condo,116.0,€,1,0,4.73,312,29,2,1,1,1
+athens,https://www.airbnb.com/rooms/33990666,Gina's cozy apartment,Entire condo,89.0,€,1,0,4.83,750,38,2,1,1,1
+athens,https://www.airbnb.com/rooms/881606431285667955,"Studio, center of Athens-Exarchia",Entire condo,80.0,€,1,1,4.93,93153,34,2,1,1,1
+athens,https://www.airbnb.com/rooms/1610940255199059051,"Sunny apartment, 10 min to Monastiraki and Plaka",Entire rental unit,104.0,€,1,1,4.92,9264,42,2,1,2,1
+athens,https://www.airbnb.com/rooms/868723716400905082,Central studio in Athens,Entire rental unit,126.0,€,1,0,4.5,240,13,2,1,1,1
+athens,https://www.airbnb.com/rooms/1085304507175670374,Acropolis Museum Shiny Studio1B@50m Acropoli metro,Entire rental unit,122.0,€,1,0,4.62,214,22,4,2,2,1
+athens,https://www.airbnb.com/rooms/1635415990384452438,Amazing Acropolis View Apart@390m metro Sygrou-fix,Entire condo,147.0,€,1,0,4.94,9431,27,2,1,1,1
+athens,https://www.airbnb.com/rooms/1014626938179980077,Sweet home: Master private bedroom,Room,60.0,€,1,1,4.9,9259,46,2026,2,1,1.5
+barcelona,https://www.airbnb.com/rooms/644543371847274388,Sweett | Palau,Rental unit,343.0,€,1,0,4.69,1094,38,3,2,2,1
+barcelona,https://www.airbnb.com/rooms/1695009257954236014,Sant Agustí,Hotel,38.0,€,1,0,4.54,13,9,2,,2,2
+barcelona,https://www.airbnb.com/rooms/1701325980466907876,Aparthotel Bcn Montjuic,Hotel,275.0,€,1,0,4.67,78,12,2,0,3,
+barcelona,https://www.airbnb.com/rooms/1774540707398425105,Primavera Hostel,Hotel,298.0,€,1,0,4.77,13,6,4,,,
+barcelona,https://www.airbnb.com/rooms/1395546873428369313,chic&basic Born Boutique Hotel,Hotel,291.0,€,1,0,4.52,213,9,2,,1,
+barcelona,https://www.airbnb.com/rooms/1633928137199805521,Sercotel Cornellà Barcelona,Hotel,224.0,€,1,0,4.68,339,13,2,,0,
+barcelona,https://www.airbnb.com/rooms/1608707384853438424,Hotel Casa Luz,Hotel,51.0,€,1,0,4.9,88,8,2,2,,
+barcelona,https://www.airbnb.com/rooms/1629665679910194650,Oriente Atiram,Hotel,45.0,€,1,0,4.58,125,9,2,,,
+barcelona,https://www.airbnb.com/rooms/1623845411548133787,Tres Torres Atiram Hotels,Hotel,36.0,€,1,0,4.75,624,10,2,,,
+barcelona,https://www.airbnb.com/rooms/1644128350843386600,Sercotel Porta Barcelona,Hotel,198.0,€,1,0,4.64,383,12,2,,1,18
+barcelona,https://www.airbnb.com/rooms/1761559106159037377,Hotel Cram Barcelona,Hotel,45.0,€,1,0,,0,12,2,,,
+barcelona,https://www.airbnb.com/rooms/1725445810272647322,Casa Mathilda,Hotel,63.0,€,1,0,4.85,27,6,2,2,,
+barcelona,https://www.airbnb.com/rooms/1440590280843563406,easyHotel Barcelona La Sagrera,Hotel,35.0,€,1,0,4.64,593,7,2,,2,
+barcelona,https://www.airbnb.com/rooms/2576955,"Charming, central, new. Best value",Entire rental unit,336.0,€,1,0,4.67,717,43,3,1,1,1
+barcelona,https://www.airbnb.com/rooms/21721888,Cool Jazz Habitat Apartments,Rental unit,293.0,€,1,0,4.61,2915,19,3,522,4,1
+barcelona,https://www.airbnb.com/rooms/1215794069425578734,Hotelito Badalona Gran Villa,Rental unit,184.0,€,1,0,4.65,578,4,2,0,11,1
+barcelona,https://www.airbnb.com/rooms/1624708937768021695,Catalonia Avinyo,Hotel,36.0,€,1,0,4.74,147,12,2,,,
+barcelona,https://www.airbnb.com/rooms/831581859522867170,Sweett | Casa Bailen,Rental unit,377.0,€,1,0,4.72,1936,28,4,2022,2,2
+barcelona,https://www.airbnb.com/rooms/1510890849191244460,Barcelona - Thanks,Rental unit,438.0,€,1,0,4.84,584,44,3,3,2,1
+barcelona,https://www.airbnb.com/rooms/1612999296663200042,The Moods Catedral Hostal Boutique,Hotel,34.0,€,1,0,4.66,53,4,2,,1,
+barcelona,https://www.airbnb.com/rooms/1049174696674816003,Flateli 430,Rental unit,288.0,€,1,0,4.59,866,15,3,0,2,1
+barcelona,https://www.airbnb.com/rooms/1644127533941365878,Sercotel Sant Boi,Hotel,193.0,€,1,0,4.5,587,12,2,,,
+barcelona,https://www.airbnb.com/rooms/1506570233397481099,"Bcn Mad 2 Apartments, Apartment with 2 beds.",Entire rental unit,379.0,€,1,0,4.84,70,47,3,2,2,1
+barcelona,https://www.airbnb.com/rooms/1438949906163753632,Sagrada Familia,Rental unit,387.0,€,1,0,4.62,1418,43,5,242,3,1
+barcelona,https://www.airbnb.com/rooms/1472295345475369099,Ola Living St Antoni,Rental unit,335.0,€,1,0,4.53,507,27,3,1022,2,1
+barcelona,https://www.airbnb.com/rooms/1368965855500703159,Chic Rooftop Flat with Terrace near Casa Batlló,Entire loft,434.0,€,1,1,5.0,125,48,2,1,1,1
+barcelona,https://www.airbnb.com/rooms/42909365,Sweett | Sepulveda,Rental unit,348.0,€,1,0,4.66,1975,34,4,2,3,1
+barcelona,https://www.airbnb.com/rooms/23556866,Sergio's Apartments Badalona Beach,Rental unit,209.0,€,1,0,4.69,674,19,2,0,1,1
+barcelona,https://www.airbnb.com/rooms/1624699445202049531,Catalonia Park Putxet Hotel,Hotel,38.0,€,1,0,4.61,162,12,2,,,
+barcelona,https://www.airbnb.com/rooms/1706567789898814156,B&B HOTEL Barcelona Rubí,Hotel,30.0,€,1,0,4.42,45,11,2,,,9
+barcelona,https://www.airbnb.com/rooms/1760795969982904970,Salles Ciutat del Prat,Hotel,48.0,€,1,0,4.93,14,10,2,,,
+barcelona,https://www.airbnb.com/rooms/1618204587171431079,Hotel Pulitzer Barcelona,Hotel,67.0,€,1,0,4.87,62,11,2,,1,
+barcelona,https://www.airbnb.com/rooms/1644124202866481451,Sercotel Barcelona El Prat,Hotel,272.0,€,1,0,4.77,366,13,2,,,
+barcelona,https://www.airbnb.com/rooms/1618798291530320072,Sixties Ramblas,Hotel,322.0,€,1,0,4.65,248,8,2,,,
+barcelona,https://www.airbnb.com/rooms/1680468540985209649,Premium Ako Suite,Hotel,42.0,€,1,0,4.72,39,,4,,,
+barcelona,https://www.airbnb.com/rooms/1486820498570506019,chic&basic Tallers Hostal,Hotel,279.0,€,1,0,4.46,133,7,2,,1,24
+barcelona,https://www.airbnb.com/rooms/1714448383243684297,El Avenida Palace,Hotel,71.0,€,1,0,4.9,10,11,2,2,,
+berlin,https://www.airbnb.com/rooms/1461455135108407782,The Social Hub Berlin Mitte,Hotel,29.0,€,1,0,4.78,504,11,2,0,,
+berlin,https://www.airbnb.com/rooms/1776126412072462044,Home in Gesundbrunnen,Entire rental unit,192.0,€,1,1,5.0,8,38,6,1,4,2
+berlin,https://www.airbnb.com/rooms/1461489863473112001,Hotel ZOE by AMANO,Hotel,36.0,€,1,0,4.76,1468,12,2,,9,
+berlin,https://www.airbnb.com/rooms/1414396812014029823,Hotel AMANO East Side,Hotel,271.0,€,1,0,4.73,1719,9,2,,1,
+berlin,https://www.airbnb.com/rooms/1528833021050012199,B&B HOTEL Berlin-Alexanderplatz,Hotel,32.0,€,1,0,4.59,169,9,2,,2,
+berlin,https://www.airbnb.com/rooms/1624772462202932266,B&B HOTEL Berlin-Tiergarten,Hotel,29.0,€,1,0,4.55,117,11,2,,,
+berlin,https://www.airbnb.com/rooms/1522441148694525428,a&o Berlin Mitte,Hotel,175.0,€,1,0,4.2,161,9,2,,2,
+berlin,https://www.airbnb.com/rooms/1639321991942474330,B&B HOTEL Berlin-Airport,Hotel,20.0,€,1,0,4.36,96,11,2,,,
+berlin,https://www.airbnb.com/rooms/1782051390161777517,Premier Inn Berlin City Süd,Hotel,34.0,€,1,0,,0,11,2,,,
+berlin,https://www.airbnb.com/rooms/1429520144217182901,Hotel AMO by AMANO,Hotel,295.0,€,1,0,4.75,710,9,2,,3,158
+berlin,https://www.airbnb.com/rooms/1649346311012189756,The Circus Hostel,Hotel,284.0,€,1,0,4.86,58,8,2,2,,
+berlin,https://www.airbnb.com/rooms/1082423127767999006,NH Collection Berlin Mitte am Checkpoint Charlie,Hotel,51.0,€,1,0,4.47,17,14,2,,1,
+berlin,https://www.airbnb.com/rooms/1781348859163192756,Premier Inn Berlin Alexanderplatz,Hotel,32.0,€,1,0,,0,10,2,,,
+berlin,https://www.airbnb.com/rooms/1706520238348964809,LINDEMANN's,Hotel,33.0,€,1,0,4.74,1292,11,2,,1,
+berlin,https://www.airbnb.com/rooms/1132385528204155145,Wilmina Hotel,Hotel,368.0,€,1,0,4.95,39,12,2,4,1,
+berlin,https://www.airbnb.com/rooms/1787273945434186885,Premier Inn Berlin Airport,Hotel,18.0,€,1,0,,0,11,2,,,
+berlin,https://www.airbnb.com/rooms/1508712027277107910,a&o Berlin Hauptbahnhof,Hotel,161.0,€,1,0,4.3,417,9,2,,1,
+berlin,https://www.airbnb.com/rooms/1407058353925814904,HOLI Berlin,Hotel,237.0,€,1,0,4.75,12,9,2,0,,
+berlin,https://www.airbnb.com/rooms/1659346201116285734,The Circus Apartments,Hotel,370.0,€,1,0,5.0,50,11,3,1,,
+berlin,https://www.airbnb.com/rooms/1698661052113348769,Hotel the YARD Berlin,Hotel,39.0,€,1,0,4.74,273,11,2,,,96
+berlin,https://www.airbnb.com/rooms/32214669,Seven Olives Apartment with Patio,Entire rental unit,249.0,€,1,1,4.87,87396,26,2,1,1,1
+berlin,https://www.airbnb.com/rooms/1699872419772190954,Hotel Anna 1908 Berlin,Hotel,52.0,€,1,0,4.82,338,9,2,,1,
+berlin,https://www.airbnb.com/rooms/1348574879310010332,Numa | Medium Studio with Kitchenette,Entire serviced apartment,185.0,€,1,0,4.83,83571,42,2,1,1,1
+berlin,https://www.airbnb.com/rooms/1385446430056941986,Hotel AMANO,Hotel,54.0,€,1,0,4.76,704,11,3,,4,
+berlin,https://www.airbnb.com/rooms/1639322011636521289,B&B HOTEL Berlin-Dreilinden,Hotel,25.0,€,1,0,4.68,40,12,2,,,
+berlin,https://www.airbnb.com/rooms/1483950169202888344,"Close to the city: Bright, near the trade fair ICC",Entire rental unit,230.0,€,1,1,5.0,90,57,4,1,2,1
+budapest,https://www.airbnb.com/rooms/1308804871954078900,Cosy and Quiet Apartment with A/C,Entire rental unit,140.0,€,1,0,4.96,96142,35,4,1,2,1
+budapest,https://www.airbnb.com/rooms/1373955938813251470,Wesselenyi View,Entire rental unit,136.0,€,1,0,4.82,82114,34,4,1,1,1
+budapest,https://www.airbnb.com/rooms/30551218,Cozy home in the heart of Budapest - Kris 1.,Entire condo,83.0,€,1,0,4.75,329,29,2,1,2,1
+budapest,https://www.airbnb.com/rooms/1375450568388122598,Central Boutique Studio,Entire rental unit,116.0,€,1,0,4.61,75,37,2,1,1,1
+budapest,https://www.airbnb.com/rooms/1775329840162664665,Akeah Verdi Budapest,Hotel,111.0,€,1,0,,0,13,2,,,
+budapest,https://www.airbnb.com/rooms/1675244260060525414,Star Hotel by Mellow Mood Hotels,Hotel,152.0,€,1,0,4.89,9,9,2,2,,2
+budapest,https://www.airbnb.com/rooms/1196890139538390728,a&o Budapest City,Hotel,107.0,€,1,0,4.32,325,10,2,,2,
+budapest,https://www.airbnb.com/rooms/1776179892116995577,NH Collection Budapest City Center,Hotel,28.0,€,1,0,,0,13,2,2,,
+budapest,https://www.airbnb.com/rooms/1678262244957807982,Hotel Gloria Budapest City,Hotel,26.0,€,1,0,,,9,2,,,
+budapest,https://www.airbnb.com/rooms/1635596985865981208,Hotel Allora,Hotel,40.0,€,1,0,,,11,2,,,
+budapest,https://www.airbnb.com/rooms/1461397232876125841,Honest Budapest by chic&basic,Hotel,41.0,€,1,0,3.67,3,11,3,,1,
+budapest,https://www.airbnb.com/rooms/1711000416669912978,Hotel Ottofiori Budapest,Hotel,326.0,€,1,0,,,11,2,,,
+budapest,https://www.airbnb.com/rooms/1136012653970739559,Andrew's Castle View Apartment,Entire condo,115.0,€,1,1,4.95,9566,36,4,1,2,1
+budapest,https://www.airbnb.com/rooms/1386252641138221677,Petit Astoria - the design studio,Entire rental unit,124.0,€,1,1,4.76,76689,37,4,1,2,1
+budapest,https://www.airbnb.com/rooms/36820702,Renovated stylish Danube Apartment with AC (A),Entire condo,170.0,€,1,1,4.95,95256,33,2,1,1,1
+budapest,https://www.airbnb.com/rooms/44272532,Design boutique studio in downtown,Entire rental unit,152.0,€,1,1,4.85,85390,32,4,1,2,1
+budapest,https://www.airbnb.com/rooms/868164626248809189,Cozy Sunshine Home with Balcony,Entire rental unit,173.0,€,1,0,4.73,229,42,2,1,1,1
+budapest,https://www.airbnb.com/rooms/4593077,"All YOU NEED location, clean and cozy :)",Entire condo,140.0,€,1,1,4.9,9823,37,3,1,2,1
+budapest,https://www.airbnb.com/rooms/1471509201762616623,Stylish Stay Above the City Buzz,Entire rental unit,153.0,€,1,0,4.9,950,44,4,1,2,1
+budapest,https://www.airbnb.com/rooms/6497479,Hercegprímás Street,Entire loft,128.0,€,1,1,4.85,85871,31,4,1,2,1.5
+budapest,https://www.airbnb.com/rooms/1513669268060614316,Timeless Charm Studio w/AC+ Netflix@Budapest I.,Entire rental unit,137.0,€,1,1,4.81,8152,20,4,1,2,1
+budapest,https://www.airbnb.com/rooms/18251226,"Studio apt. ""A""- in the cultural heart of the city",Entire rental unit,123.0,€,1,0,4.8,593,45,2,0,2,1
+budapest,https://www.airbnb.com/rooms/1456673824949654427,Silver,Entire condo,101.0,€,1,1,4.97,9760,37,4,1,3,1
+budapest,https://www.airbnb.com/rooms/1246932640437487194,Bogi's Apartment,Entire rental unit,211.0,€,1,0,4.96,96130,36,6,2,2,2
+budapest,https://www.airbnb.com/rooms/1884306,SILENT & SUNNY in the Center with A/C,Entire rental unit,149.0,€,1,0,4.96,96557,36,3,1,2,1.5
+budapest,https://www.airbnb.com/rooms/751261584539771532,Paul Peter's cute and stylish apartment,Entire condo,95.0,€,1,0,4.86,193,37,2,1,1,1
+budapest,https://www.airbnb.com/rooms/663847437629970047,NEW CENTRAL APARTMENT 💟 with AC @by Synagogue,Entire rental unit,140.0,€,1,0,4.64,254,30,3,1,2,1
+budapest,https://www.airbnb.com/rooms/908018780301419932,Cheerful Home - Spaciuos place,Entire rental unit,138.0,€,1,0,4.77,175,33,3,1,1,1
+budapest,https://www.airbnb.com/rooms/1205528769525418688,Baroque Danube Panorama Red,Entire rental unit,327.0,€,1,0,4.9,910,44,2,1,1,1.5
+budapest,https://www.airbnb.com/rooms/1218510664664614814,Very Central Modern Studio,Entire rental unit,117.0,€,1,0,4.63,121,21,2,1,1,1
+budapest,https://www.airbnb.com/rooms/1096143159369794638,studio in the heart of Budapest,Entire rental unit,143.0,€,1,1,4.88,88154,28,2,1,1,1
+budapest,https://www.airbnb.com/rooms/1567307727365087018,Unique Buda Castle Apartment with Historic Charm,Entire rental unit,205.0,€,1,1,4.95,9542,38,2,1,1,1
+budapest,https://www.airbnb.com/rooms/1391364832591592445,Central Apt | 2Min to New York Café | A/C & LiftH2,Entire loft,134.0,€,1,0,4.73,117,31,2,1,1,1
+budapest,https://www.airbnb.com/rooms/16280625,Lovely place in the heart of city,Entire condo,154.0,€,1,1,4.97,97373,50,2,1,1,1
+budapest,https://www.airbnb.com/rooms/9028515,Own Budapest - Stylish Apartment Next To Gozsdu,Entire rental unit,143.0,€,1,1,4.83,83553,34,4,1,3,1
+budapest,https://www.airbnb.com/rooms/17470458,Fresh Studio Downtown Budapest at Gozsdu- Studio A,Entire condo,165.0,€,1,1,4.94,94322,23,2,1,1,1
+budapest,https://www.airbnb.com/rooms/19358237,Golden,Entire condo,100.0,€,1,1,4.8,8206,42,4,1,1,1
+lisbon,https://www.airbnb.com/rooms/563661982105733131,Casa Do Mercado - Standard Double w/breakfast inc,Room,288.0,€,1,1,4.89,89177,34,2026,1,3,
+lisbon,https://www.airbnb.com/rooms/1299327642293556094,Beautiful Apartment in Chiado,Entire rental unit,318.0,€,1,0,4.96,96103,34,4,2,3,1.5
+lisbon,https://www.airbnb.com/rooms/35810916,Lisbon For You Apartment,Entire rental unit,251.0,€,1,0,4.79,233,31,4,1,2,1
+lisbon,https://www.airbnb.com/rooms/14854589,DOSSEL APARTMENT - BY MAYORAL,Entire rental unit,227.0,€,1,0,4.73,567,46,4,2,2,1
+lisbon,https://www.airbnb.com/rooms/1075655,Av Liberdade Historic Center I Balcony I AC I WiFi,Entire rental unit,262.0,€,1,1,4.9,9307,49,3,0,2,1
+lisbon,https://www.airbnb.com/rooms/1719517969482028490,Historic Alfama Apartment with Modern Comfort,Entire rental unit,200.0,€,1,0,4.61,18,27,3,1,2,1
+lisbon,https://www.airbnb.com/rooms/1663915134292649702,Secret Patio Lisbon,Hotel,166.0,€,1,0,4.25,59,6,2,,,3
+lisbon,https://www.airbnb.com/rooms/1333903379219800851,VIP Executive Zurique,Hotel,35.0,€,1,0,4.43,99,11,2,,1,
+lisbon,https://www.airbnb.com/rooms/1399853605326576581,Casa Teva Lisboa Hotel,Hotel,473.0,€,1,0,4.96,27,7,2,2,1,
+lisbon,https://www.airbnb.com/rooms/1706906182391265930,B&B HOTEL Lisboa Aeroporto,Hotel,53.0,€,1,0,4.68,37,11,2,,,
+lisbon,https://www.airbnb.com/rooms/1761103477121413957,Tivoli Avenida Liberdade Lisboa,Hotel,123.0,€,1,0,,0,11,2,,58,
+lisbon,https://www.airbnb.com/rooms/976954,Correeiros 28 - 2 Bedrooms Apartment,Entire rental unit,483.0,€,1,1,4.86,86629,34,4,2,3,1
+lisbon,https://www.airbnb.com/rooms/13376882,Romantic Cozy studio in the heart of Lisbon.,Entire serviced apartment,180.0,€,1,1,4.85,85336,50,2,1,1,1
+lisbon,https://www.airbnb.com/rooms/1362295859868317848,5ive Residence-4 Atrium-AC/loft-style/balcony/,Entire rental unit,324.0,€,1,1,4.85,8586,50,3,1,2,1
+lisbon,https://www.airbnb.com/rooms/31220631,Panoramic Lisbon view terrace apartment in Graça,Entire rental unit,373.0,€,1,1,4.95,95245,47,2,1,1,1
+lisbon,https://www.airbnb.com/rooms/1385422428855061839,Home Out Marquês Suite 7,Room,189.0,€,1,1,4.82,8234,35,2026,1,2,3
+lisbon,https://www.airbnb.com/rooms/18589668,Room Next Marquis Pombal,Room,140.0,€,1,1,4.86,86367,32,2026,1,1,136
+lisbon,https://www.airbnb.com/rooms/37592367,Casa da Bela Vista Rio,Entire rental unit,217.0,€,1,1,5.0,15,45,4,1,2,1
+lisbon,https://www.airbnb.com/rooms/1522747264630368916,Stunning views * cozy flat * Lisbon Heart *Balcony,Entire rental unit,258.0,€,1,0,4.73,64,37,4,2,2,1
+lisbon,https://www.airbnb.com/rooms/16586560,Rooftop in Alfama-little triplex,Entire rental unit,360.0,€,1,1,4.92,92441,49,4,2,2,1.5
+lisbon,https://www.airbnb.com/rooms/872366102669891145,The mosaic apartment,Entire rental unit,220.0,€,1,0,4.74,129,26,4,2,3,1
+lisbon,https://www.airbnb.com/rooms/563650864219417274,Nosolomio Castle Apartment TopFloor 5,Entire rental unit,385.0,€,1,1,4.93,93285,41,2,1,1,1
+lisbon,https://www.airbnb.com/rooms/1380388545018455361,Typical Lisbon Apartment - Príncipe Real,Entire rental unit,302.0,€,1,1,4.9,992,24,4,1,2,1
+lisbon,https://www.airbnb.com/rooms/1227541610508739790,The SUITE • Central Lisbon • Easy to Explore,Room,224.0,€,1,1,4.98,98133,35,2026,1,1,48
+lisbon,https://www.airbnb.com/rooms/13010122,Cozy Studio Historical Center,Entire rental unit,156.0,€,1,0,4.86,86441,23,2,0,1,1
+lisbon,https://www.airbnb.com/rooms/34555794,Sao Mamede Loft,Entire rental unit,172.0,€,1,0,4.78,301,36,3,1,1,1
+lisbon,https://www.airbnb.com/rooms/24961263,Lisbon B2 Great Location Secret Garden,Entire rental unit,241.0,€,1,1,4.93,93358,56,2,1,1,1
+lisbon,https://www.airbnb.com/rooms/11019217,STUDIO (PHONE NUMBER HIDDEN)/AL),Entire rental unit,263.0,€,1,1,4.85,85375,49,3,1,1,1
+lisbon,https://www.airbnb.com/rooms/32887035,"HS22 Central Anjos Apartment, perfect for families",Entire rental unit,224.0,€,1,1,4.93,93374,49,4,2,4,1
+lisbon,https://www.airbnb.com/rooms/37579267,CSA18 | Luxury Design Downtown | Patio| AC,Entire rental unit,279.0,€,1,0,4.57,248,30,4,1,2,1
+lisbon,https://www.airbnb.com/rooms/7341893,Design Stay • Quiet • 1 BR w/Office • Av Liberdade,Entire rental unit,250.0,€,1,1,4.87,87426,53,3,1,2,1
+lisbon,https://www.airbnb.com/rooms/2606042,Av Liberdade Historic Center AC Wifi PSLisbonFlats,Entire rental unit,284.0,€,1,0,4.93,93264,47,4,1,2,2
+lisbon,https://www.airbnb.com/rooms/41388962,Lisbon 1 Secret Garden Sun Loungers Great Location,Room,177.0,€,1,1,4.92,92265,51,2026,1,1,
+lisbon,https://www.airbnb.com/rooms/30764428,Armanda - Lissabon Altstadt,Entire rental unit,190.0,€,1,0,4.89,89215,28,3,1,2,1
+lisbon,https://www.airbnb.com/rooms/23197495,Casa LX with A/C - Next to LX Factory,Entire rental unit,240.0,€,1,1,4.91,91133,25,2,1,1,1
+lisbon,https://www.airbnb.com/rooms/1609354027792817613,House of Calma - cozy studio with view,Entire rental unit,221.0,€,1,0,4.83,23,45,2,1,1,1
+lisbon,https://www.airbnb.com/rooms/14607188,Alfama with a stunning view over Tagus River,Entire rental unit,286.0,€,1,0,4.85,499,42,4,1,2,1
+london,https://www.airbnb.com/rooms/1181960401286117894,1 bed flat in Chelsea/Belgravia,Entire rental unit,380.0,€,1,1,4.91,9197,47,3,1,1,1
+london,https://www.airbnb.com/rooms/1244874753903347958,Westminster ensuite bedroom with private lounge,Room,381.0,€,1,1,5.0,155,55,2026,1,1,
+london,https://www.airbnb.com/rooms/52603482,Cosy Double Room,Room,191.0,€,1,1,4.9,9361,16,2026,1,1,1
+london,https://www.airbnb.com/rooms/1622454942881933464,"Live Like a Local Luxury 2BR in Islington, London",Entire rental unit,447.0,€,1,1,4.94,9434,40,4,2,2,1
+london,https://www.airbnb.com/rooms/1546963310629107310,Ensuite Room Near London Bridge - N,Room,216.0,€,1,1,5.0,5,37,2026,1,1,
+london,https://www.airbnb.com/rooms/1222980841645488059,Grange Beauchamp,Hotel,286.0,€,1,0,4.47,120,12,2,,1,
+london,https://www.airbnb.com/rooms/1371685815410800894,Apartment 6 (Studio),Entire rental unit,241.0,€,1,0,4.0,1,27,2,1,1,1
+london,https://www.airbnb.com/rooms/26939959,Room with a view; Greenwich,Room,324.0,€,1,1,4.99,99213,23,2026,1,1,55
+london,https://www.airbnb.com/rooms/1203713925199379176,Cozy Notting Hill 1-Bedroom - Prime Spot,Entire condo,152.0,€,1,0,4.81,122,43,4,1,2,1
+london,https://www.airbnb.com/rooms/1723715087308701556,Very Central. Spotless. New. Sleeps 2-4,Room,347.0,€,1,1,4.93,9314,19,2026,1,3,
+london,https://www.airbnb.com/rooms/1376505327616680389,Central Park Hotel,Hotel,46.0,€,1,0,4.48,1510,8,2,,1,243
+london,https://www.airbnb.com/rooms/1763727619951594289,Private 2-Bed House Flat,Entire home,231.0,€,1,0,4.5,4,10,2,2,2,1
+london,https://www.airbnb.com/rooms/1764640090384422735,Cosy Place,Entire rental unit,241.0,€,1,0,5.0,4,39,4,1,2,1
+london,https://www.airbnb.com/rooms/1736297008411818216,"South Ken Rooftop Loft, Treetop Views, Hyde Park",Entire loft,445.0,€,1,1,5.0,9,50,4,1,2,1
+london,https://www.airbnb.com/rooms/1310133953682268462,Studio 4: Ground Floor,Entire rental unit,232.0,€,1,1,4.88,88100,27,2,1,1,1
+london,https://www.airbnb.com/rooms/1462096152917832886,Charming Dulwich Apartment free parking,Entire rental unit,302.0,€,1,1,4.86,8637,53,4,1,2,1
+london,https://www.airbnb.com/rooms/1755831614094318468,Commodore Hotel,Hotel,391.0,€,1,0,4.79,14,7,2,,,4
+london,https://www.airbnb.com/rooms/1093290410392069284,Bright & Airy Room w/ Charming Juliet Balcony,Room,184.0,€,1,1,4.87,87122,17,2026,2,2,
+london,https://www.airbnb.com/rooms/1350708559893906434,Roomzzz Aparthotel London Stratford,Hotel,49.0,€,1,0,4.85,203,12,2,0,1,
+london,https://www.airbnb.com/rooms/1650065597838736792,My Place Hotel,Hotel,37.0,€,1,0,4.07,94,8,2,,,15
+london,https://www.airbnb.com/rooms/1615124350140064853,Point A Hotel Kings Cross,Hotel,373.0,€,1,0,4.67,227,10,2,,,
+london,https://www.airbnb.com/rooms/1647827054440611588,Maitrise Hotel Maida Vale - London,Hotel,219.0,€,1,0,4.15,425,9,2,,,123
+london,https://www.airbnb.com/rooms/1388581958348681365,Elegant & Cozy Apartment in Kensington,Entire rental unit,504.0,€,1,1,4.86,86111,37,4,1,2,1
+london,https://www.airbnb.com/rooms/1775373384334363578,"Double room, ensuite and study by river in Kew",Room,226.0,€,1,1,5.0,6,21,2026,1,1,
+london,https://www.airbnb.com/rooms/1705564329996769326,Modern Guest House with Quick London Access,Room,136.0,€,1,1,4.95,9519,19,2026,1,2,3
+london,https://www.airbnb.com/rooms/1647866906350982699,Limehouse Library Hotel,Hotel,374.0,€,1,0,4.63,188,12,2,2,,
+london,https://www.airbnb.com/rooms/1336980659810114627,Charming 1-bedroom flat in the heart of Twickenham,Entire condo,314.0,€,1,1,5.0,109,41,2,1,1,1
+london,https://www.airbnb.com/rooms/18288083,Amazing Location Studio Flat in Clapham Junction,Entire condo,265.0,€,1,0,4.82,132,24,2,1,1,1
+london,https://www.airbnb.com/rooms/1526076160434102341,"Peaceful 1BD Flat, 5 mins from Highbury &Islington",Entire rental unit,344.0,€,1,1,4.93,9340,39,3,1,2,1
+london,https://www.airbnb.com/rooms/1213640332916604260,Gem Strathmore Hotel,Hotel,351.0,€,1,0,4.55,477,9,2,,1,
+london,https://www.airbnb.com/rooms/48916295,"Sunny, modern, canal-side apartment.",Entire rental unit,238.0,€,1,0,5.0,3,11,2,1,1,1
+london,https://www.airbnb.com/rooms/1673941678056302355,Arran House Hotel,Hotel,327.0,€,1,0,4.02,47,7,2,,2,17
+london,https://www.airbnb.com/rooms/1699973859252046819,Tudor Court Hotel,Hotel,36.0,€,1,0,,,6,2,,,
+london,https://www.airbnb.com/rooms/1376466799602537711,Royal Eagle Hotel,Hotel,43.0,€,1,0,4.11,741,7,2,,2,135
+london,https://www.airbnb.com/rooms/1715812517417699913,Líbere London Edgware Road,Hotel,308.0,€,1,0,4.36,36,8,2,,1,3
+london,https://www.airbnb.com/rooms/1615124227033317138,Point A Hotel London Paddington,Hotel,382.0,€,1,0,4.72,199,8,2,,,
+london,https://www.airbnb.com/rooms/1223050184818463271,Grange Clarendon,Hotel,329.0,€,1,0,4.5,250,9,2,,1,
+paris,https://www.airbnb.com/rooms/1237453895006960738,Eklo Hotels Paris Porte de Versailles,Hotel,174.0,€,1,0,4.53,1063,9,2,,1,
+paris,https://www.airbnb.com/rooms/1650119704861338315,Hôtel Madeleine de Senlis,Hotel,61.0,€,1,0,4.91,22,9,2,,,
+paris,https://www.airbnb.com/rooms/1269494822707735897,Hotel Rose Bourbon,Hotel,28.0,€,1,0,4.73,947,9,2,,1,16
+paris,https://www.airbnb.com/rooms/1268082935098854670,La Manufacture,Hotel,25.0,€,1,0,4.71,787,7,2,,,
+paris,https://www.airbnb.com/rooms/1603511024687675125,Hôtel Avama Montmartre,Hotel,39.0,€,1,0,4.81,79,8,2,,,8
+paris,https://www.airbnb.com/rooms/1265039206198665619,Hotel Astoria - Astotel,Hotel,35.0,€,1,0,4.73,1428,9,2,2,,
+paris,https://www.airbnb.com/rooms/1269499526943790639,Hotel Veryste,Hotel,40.0,€,1,0,4.71,95,10,2,,200,
+paris,https://www.airbnb.com/rooms/1744281444869366288,Hotel Georgette,Hotel,62.0,€,1,0,4.83,6,12,2,,,
+paris,https://www.airbnb.com/rooms/1206413735605460526,Hôtel Petit Saint-Honoré,Hotel,34.0,€,1,0,4.28,108,7,2,,2,24
+paris,https://www.airbnb.com/rooms/1406522946424505503,Hôtel Boileau,Hotel,24.0,€,1,0,4.57,23,11,2,,1,2
+paris,https://www.airbnb.com/rooms/1450720809411830383,9Hotel Opera,Hotel,283.0,€,1,0,4.48,139,9,2,,2,28
+paris,https://www.airbnb.com/rooms/1608106045202250016,New Hotel Republique,Hotel,312.0,€,1,0,4.53,313,9,2,,,74
+paris,https://www.airbnb.com/rooms/1268081192128960569,Izzy Hotel,Hotel,22.0,€,1,0,4.73,592,10,2,,1,145
+paris,https://www.airbnb.com/rooms/1608029925491204751,Hotel Apollinaire,Hotel,39.0,€,1,0,4.79,92,9,2,,,
+paris,https://www.airbnb.com/rooms/1536224834628432480,Hôtel des Académies et des Arts,Hotel,56.0,€,1,0,5.0,15,9,2,0,,
+paris,https://www.airbnb.com/rooms/1269503786183565223,Hotel Monceau Wagram,Hotel,27.0,€,1,0,4.52,207,11,2,,,30
+paris,https://www.airbnb.com/rooms/1497781999607260929,Korner Sorbonne,Hotel,315.0,€,1,0,4.59,85,8,2,,,13
+paris,https://www.airbnb.com/rooms/1612833080852883601,Hotel Boronali Montmartre,Hotel,30.0,€,1,0,4.48,2556,7,2,,,581
+paris,https://www.airbnb.com/rooms/1637556122062061870,Hotel Lorette - Astotel,Hotel,33.0,€,1,0,4.78,1010,8,2,2,,
+paris,https://www.airbnb.com/rooms/1447029379538704356,Hotel Sophie Germain,Hotel,26.0,€,1,0,4.64,39,10,2,,1,
+paris,https://www.airbnb.com/rooms/1096955911159219773,easyHotel Paris Nord Aubervilliers,Hotel,23.0,€,1,0,4.59,850,7,2,,2,
+paris,https://www.airbnb.com/rooms/1076705614852116275,London Hotel - Paris,Hotel,48.0,€,1,0,4.6,225,8,2,,2,
+paris,https://www.airbnb.com/rooms/1432374025713506876,Hôtel Casimir,Hotel,40.0,€,1,0,4.83,103,7,2,,,10
+paris,https://www.airbnb.com/rooms/1142439792217838957,9Hotel Bastille-Lyon,Hotel,268.0,€,1,0,4.78,246,10,2,,2,
+paris,https://www.airbnb.com/rooms/1268082223046271973,Hotel de l'Avre,Hotel,40.0,€,1,0,4.64,152,8,2,,,
+paris,https://www.airbnb.com/rooms/1735600450100664506,Hôtel Maison Monceau,Hotel,45.0,€,1,0,,0,7,2,,,
+paris,https://www.airbnb.com/rooms/1663802454856894547,Staycity Aparthotels Paris La Defense,Hotel,32.0,€,1,0,4.7,60,11,2,0,,
+paris,https://www.airbnb.com/rooms/1497791784293967253,Korner Montparnasse,Hotel,262.0,€,1,0,4.61,539,7,2,,1,45
+paris,https://www.airbnb.com/rooms/1265039552079610793,Hotel Joke - Astotel,Hotel,35.0,€,1,0,4.86,1395,9,2,,,
+paris,https://www.airbnb.com/rooms/1708556273874757131,B&B HOTEL Paris Italie Porte de Choisy,Hotel,24.0,€,1,0,4.8,10,9,2,,,
+paris,https://www.airbnb.com/rooms/1625397506907198691,B&B HOME Rueil-Malmaison Gare,Hotel,195.0,€,1,0,4.75,303,13,2,,,
+paris,https://www.airbnb.com/rooms/1510870951666814661,Hôtel Serotel Lutèce,Hotel,349.0,€,1,0,4.55,22,10,2,2,,2
+paris,https://www.airbnb.com/rooms/1720952042684581965,Hotel Ronceray Opera,Hotel,38.0,€,1,0,4.41,64,7,2,,,
+paris,https://www.airbnb.com/rooms/1265038567692323886,Hotel Palm - Astotel,Hotel,39.0,€,1,0,4.86,1347,9,2,,,
+paris,https://www.airbnb.com/rooms/1434769590492392212,Léon Hôtel,Hotel,40.0,€,1,0,4.65,183,7,2,0,1,
+paris,https://www.airbnb.com/rooms/1739670566004682543,New Hotel Lafayette,Hotel,280.0,€,1,0,4.47,19,7,2,,,2
+paris,https://www.airbnb.com/rooms/1265037798828456409,Hotel Monterosa - Astotel,Hotel,35.0,€,1,0,4.8,1640,8,2,,,
+rome,https://www.airbnb.com/rooms/802169540392726344,Vatican Home (St. Peter's Basilica),Entire rental unit,267.0,€,1,1,4.99,99304,57,3,1,2,1
+rome,https://www.airbnb.com/rooms/1504195433482909788,Metro Re di Roma Apartment,Entire rental unit,200.0,€,1,1,5.0,8,16,4,0,2,1
+rome,https://www.airbnb.com/rooms/1764503749481925613,"Domus Esquilina| 2 steps Termini St, 2/4 pax, AC",Entire rental unit,401.0,€,1,0,,0,26,4,1,2,1
+rome,https://www.airbnb.com/rooms/20253277,Laterano238apartment,Entire rental unit,254.0,€,1,0,4.7,622,24,4,1,3,1
+rome,https://www.airbnb.com/rooms/1394975712525370114,MDM Guest House,Hotel,24.0,€,1,0,4.72,386,8,2,0,8,
+rome,https://www.airbnb.com/rooms/1121055533055443809,Atelier Testaccio Apartment,Entire rental unit,271.0,€,1,0,4.84,171,54,4,1,2,1
+rome,https://www.airbnb.com/rooms/1279847,B&B Piazza della Libertà,Bed and breakfast,335.0,€,1,0,4.59,2165,30,2,,8,
+rome,https://www.airbnb.com/rooms/1790506438825431596,Pink Design Attic in Prati – Steps from Vatican,Entire rental unit,107.0,€,1,0,,0,21,4,1,2,1
+rome,https://www.airbnb.com/rooms/1142707472007851584,"Terrace with a View of St. Peter's • Wi-Fi, Netflix & Metro",Entire rental unit,218.0,€,1,1,4.99,99182,48,3,1,2,1
+rome,https://www.airbnb.com/rooms/43903103,"Smart Loft in Testaccio, Italy",Entire loft,225.0,€,1,1,4.95,95115,60,2,1,1,1
+rome,https://www.airbnb.com/rooms/6387577,Cozy apartament near Colosseo and metro in Rome!,Entire condo,229.0,€,1,0,4.89,560,27,3,1,1,1
+rome,https://www.airbnb.com/rooms/1320980625643965139,Thery House – Modern Flat | 30 mins to Colosseum,Entire rental unit,202.0,€,1,1,4.96,96143,56,4,2,2,1
+rome,https://www.airbnb.com/rooms/1797858078285698337,Modern Stay in Central Rome,Entire rental unit,233.0,€,1,0,,0,33,4,1,2,1
+rome,https://www.airbnb.com/rooms/1770483393337090279,At Home in Rome | Near the Colosseum,Entire rental unit,339.0,€,1,1,5.0,8,48,4,2,2,2
+rome,https://www.airbnb.com/rooms/1239930751249565099,The Little House at the Pantheon,Entire rental unit,226.0,€,1,0,4.48,120,12,3,1,1,1
+rome,https://www.airbnb.com/rooms/1645710569036832469,KING DELUXe SUITE • Premium Room • Prati • Regolo,Room,230.0,€,1,0,4.86,7,43,2026,1,1,2
+rome,https://www.airbnb.com/rooms/1379683,nice comfortable central apartment,Entire rental unit,190.0,€,1,0,4.54,548,28,2,1,1,1
+rome,https://www.airbnb.com/rooms/882257441620802069,Charm with a view,Room,306.0,€,1,1,4.96,96196,21,2026,1,2,
+rome,https://www.airbnb.com/rooms/1370067382341992065,Relaxation oasis in Monteverde,Entire rental unit,339.0,€,1,1,5.0,18,42,4,1,2,1
+rome,https://www.airbnb.com/rooms/1660154894415575316,Bright and cozy apartment,Entire rental unit,160.0,€,1,0,5.0,3,39,3,1,2,1
+rome,https://www.airbnb.com/rooms/1468040953458279516,Jasmine Stay Guesthouse - Room 5,Room,184.0,€,1,0,4.76,25,16,2026,1,1,
+rome,https://www.airbnb.com/rooms/1285558040810880420,La Presentosa- Elegant Full Apartment San Giovanni,Entire condo,347.0,€,1,1,4.99,9989,45,3,2,3,1
+rome,https://www.airbnb.com/rooms/1732797962032107539,Lux Aura Vatican Stay: comfort and city access,Entire rental unit,220.0,€,1,0,5.0,5,52,2,1,1,1
+rome,https://www.airbnb.com/rooms/1315963538720504679,Modern Apartment with A/C & Balcony – Near Vatican,Entire rental unit,274.0,€,1,1,5.0,102,49,4,2,3,2
+rome,https://www.airbnb.com/rooms/50166445,Secret Garden Apt. Colosseo,Entire condo,311.0,€,1,0,4.84,531,45,2,1,1,1
+rome,https://www.airbnb.com/rooms/704249148266221403,"Vatican View Loft in Prati area, Rome",Entire condo,261.0,€,1,1,4.93,93203,48,4,1,2,1
+rome,https://www.airbnb.com/rooms/43815785,S. Pietro B&B,Bed and breakfast,219.0,€,1,0,4.78,606,15,2,,1,1
+rome,https://www.airbnb.com/rooms/1767939153394245430,Comfortable vacation home for visiting Rome.,Entire home,165.0,€,1,1,5.0,12,21,3,1,3,1
+rome,https://www.airbnb.com/rooms/1715854276784646059,Vintage Penthouse with Panoramic St. Peter View,Entire rental unit,256.0,€,1,1,4.92,9213,36,2,1,1,1
+rome,https://www.airbnb.com/rooms/805144378557915065,Rome Center 10 min Scenic Penthouse next to Metro,Entire rental unit,224.0,€,1,1,4.84,8487,64,7,3,4,2
+rome,https://www.airbnb.com/rooms/1762396662165834510,Happy Hours Trastevere,Entire rental unit,314.0,€,1,1,4.8,85,15,2,1,1,1
+rome,https://www.airbnb.com/rooms/886772696325356087,Prati • Walk to Vatican • St. Peter's Dome View,Entire rental unit,250.0,€,1,1,4.96,96184,40,4,1,2,1
+rome,https://www.airbnb.com/rooms/1449543918543450646,B&B San Pietro Rome Suite,Bed and breakfast,181.0,€,1,1,4.87,87379,23,2,,1,36
+rome,https://www.airbnb.com/rooms/1788303418354496805,Charming Attic with Wooden Beams – Heart of Prati,Entire rental unit,107.0,€,1,0,,0,29,4,1,2,1
+rome,https://www.airbnb.com/rooms/1360000579480585943,Giano Vatican Suites - Metro Cipro & WiFi,Bed and breakfast,196.0,€,1,0,4.88,8,23,2,,1,
+rome,https://www.airbnb.com/rooms/1598642361454257644,Ricci Rooms,Bed and breakfast,216.0,€,1,0,4.67,6,32,2,,1,
+rome,https://www.airbnb.com/rooms/1389291823061082001,Bright penthouse 7 stops from the Colosseum,Entire condo,210.0,€,1,1,5.0,57,38,3,1,2,1
+vienna,https://www.airbnb.com/rooms/1079755428983767693,Altwiener Charme Apartment,Entire condo,218.0,€,1,0,4.93,164,39,2,1,1,1.5
+vienna,https://www.airbnb.com/rooms/975957311728177640,Dreamy Blue Penthouse in Central Vienna | HG28,Entire loft,325.0,€,1,0,4.87,321,29,2,1,2,0
+vienna,https://www.airbnb.com/rooms/40497883,♛ CITY-CROWN-APARTMENT ♛ VIENNA ♛ U4 ♛,Entire rental unit,193.0,€,1,1,4.82,82464,25,2,1,1,1
+vienna,https://www.airbnb.com/rooms/1114560317750737546,Urban Citytrip Flat - 15 min to Center,Entire rental unit,192.0,€,1,1,4.91,91101,52,4,1,2,1
+vienna,https://www.airbnb.com/rooms/2535167,Apartment close to Nachmarkt,Entire rental unit,243.0,€,1,1,4.86,86583,29,3,1,2,1
+vienna,https://www.airbnb.com/rooms/781921045071876366,Cozy apartment with balcony facing green square,Entire rental unit,153.0,€,1,0,4.79,183,38,2,1,1,1
+vienna,https://www.airbnb.com/rooms/1674567052380555373,FortyPlusOne Hotel,Hotel,211.0,€,1,0,4.65,40,9,2,2,,
+vienna,https://www.airbnb.com/rooms/1639322825752179107,B&B HOTEL Wien-Meidling,Hotel,22.0,€,1,0,4.83,12,11,2,,,
+vienna,https://www.airbnb.com/rooms/1674569756938622076,Hotel Strudlhof Vienna,Hotel,144.0,€,1,0,4.33,92,9,2,,,
+vienna,https://www.airbnb.com/rooms/1690678403375615016,Wilde Vienna Fleischmarkt,,69.0,€,1,0,4.89,9,,2026,2,,
+vienna,https://www.airbnb.com/rooms/1759204596249716068,Habyt Vienna,Hotel,386.0,€,1,0,4.87,83,10,2,0,,
+vienna,https://www.airbnb.com/rooms/1639322693392467372,B&B HOTEL Wien-Heiligenstadt,Hotel,33.0,€,1,0,4.88,8,11,2,,,
+vienna,https://www.airbnb.com/rooms/1663012884574226163,Hotel Spiess & Spiess,Hotel,55.0,€,1,0,5.0,4,10,2,0,,
+vienna,https://www.airbnb.com/rooms/1704227033566268790,Hotel Grand Ferdinand - Vienna,Hotel,74.0,€,1,0,5.0,4,11,2,,,
+vienna,https://www.airbnb.com/rooms/1639322271122899736,B&B HOTEL Wien-Stadthalle,Hotel,33.0,€,1,0,4.6,10,11,2,,644,4
+vienna,https://www.airbnb.com/rooms/1713703252663714595,Hotel Daniel Vienna,Hotel,328.0,€,1,0,,,10,2,,,
+vienna,https://www.airbnb.com/rooms/1457250712060466084,Leibniz Flats Apartment 18,Entire rental unit,163.0,€,1,0,4.87,60,29,4,1,2,1
+vienna,https://www.airbnb.com/rooms/32810418,Numa | 1-Bedroom Apartment near Schönbrunn,Entire serviced apartment,141.0,€,1,0,4.67,398,45,4,1,1,1
+vienna,https://www.airbnb.com/rooms/1340450599987792715,"Max Brown 7th District, part of Sircle Collection",Hotel,282.0,€,1,0,4.81,181,13,2,,,
+vienna,https://www.airbnb.com/rooms/713554496880081530,Urban 1BR Near Metro,Entire serviced apartment,172.0,€,1,0,4.73,232,46,3,1,2,1.5
+vienna,https://www.airbnb.com/rooms/1741518827780956214,Cozy Vienna Apartment near Schönbrunn Palace,Entire rental unit,170.0,€,1,0,5.0,5,48,2,1,1,1
+vienna,https://www.airbnb.com/rooms/1340447457947810284,"Max Brown 5th District, part of Sircle Collection",Hotel,233.0,€,1,0,4.86,105,12,2,,,
+vienna,https://www.airbnb.com/rooms/1773077879343471299,Modern 1BR+1LR Apt. | Terrace | 9 Min to Center,Entire rental unit,172.0,€,1,0,5.0,3,38,4,1,2,1
+vienna,https://www.airbnb.com/rooms/1196402346306039064,Historic Flat near Main Station,Entire rental unit,221.0,€,1,1,4.93,93135,46,4,1,2,1
+vienna,https://www.airbnb.com/rooms/1728974785908093638,Viennese 1BR w/ Garden & AC | near metro U3,Entire rental unit,226.0,€,1,1,5.0,16,49,4,1,2,1
+vienna,https://www.airbnb.com/rooms/778965857803258313,City Apartment Vienna | Balcony & Air Conditioning | Metro,Entire rental unit,205.0,€,1,0,4.86,280,53,4,1,2,1
+vienna,https://www.airbnb.com/rooms/1637955213468227330,B&B HOTEL Wien-St Marx,Hotel,24.0,€,1,0,4.75,28,11,2,,,
+vienna,https://www.airbnb.com/rooms/1055790972563125436,New building apartment Poppy,Entire rental unit,186.0,€,1,1,4.92,9287,42,4,1,2,1.5
+vienna,https://www.airbnb.com/rooms/1381729262504466519,Fabulous · 60 m² 2BR with A/C near Hauptbahnhof,Entire rental unit,171.0,€,1,0,4.76,141,32,6,2,3,1
+vienna,https://www.airbnb.com/rooms/1461706530024475080,Leibniz Flats Apartment 16,Entire rental unit,174.0,€,1,0,4.87,63,32,4,1,2,1
+vienna,https://www.airbnb.com/rooms/1491741638321211624,“Posters”Apt2-Cozy Cinema Vibes,Entire rental unit,218.0,€,1,1,4.93,93118,30,3,1,2,1
+vienna,https://www.airbnb.com/rooms/1259566532994847686,Business Apartement - 25.min to downtown,Entire rental unit,241.0,€,1,0,4.9,187,52,4,1,2,1
+vienna,https://www.airbnb.com/rooms/1420399442758058579,The secret courtyard / history outside the door,Entire rental unit,378.0,€,1,1,4.95,9582,35,3,1,2,1
+vienna,https://www.airbnb.com/rooms/1693564233422023533,Boutique Charm | Near U3 Metro & Mariahilfer Str.,Entire rental unit,380.0,€,1,1,5.0,21,52,4,1,2,1
+vienna,https://www.airbnb.com/rooms/54153638,URBAN UNIT | nearby city center,Entire rental unit,222.0,€,1,0,4.91,286,57,4,1,2,1
+vienna,https://www.airbnb.com/rooms/750780604677116312,"""The Flowers Vienna - Ivy""",Entire rental unit,238.0,€,1,1,4.96,9657,48,2,1,1,1
+vienna,https://www.airbnb.com/rooms/1403797985660231998,Artful living in the heart of Vienna | HG16,Entire rental unit,304.0,€,1,1,4.79,7997,35,4,1,2,1
